@@ -1,3 +1,4 @@
+package Sheet.Arrays.ChocolateDistributionProblelm;
 /*
   time complexity--O(n)
   space complexity -- O(1)

@@ -1,3 +1,4 @@
+package Sheet.Arrays.NextPermutation_LC31;
 /*
   time complexity--O(n)
   space complexity--O(1)
